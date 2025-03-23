@@ -28,9 +28,9 @@ I am a novice developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars and LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/mathew101)
+- :mailbox:How to reach me:  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/mathew101)
 
 ---
 
@@ -53,6 +53,14 @@ I am a novice developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </div>
 
 ---
+### My pet-projects
+
+- <a href="https://github.com/E-eclipse/Face_auth">Face detection</a>
+- [My site](https://www.e-eclipse.ru/)
+
+---
+
+
 
 ### :fire: My Stats :
 
