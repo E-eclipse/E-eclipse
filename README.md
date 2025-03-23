@@ -56,7 +56,7 @@ I am a novice developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### My pet-projects
 
 - <a href="https://github.com/E-eclipse/Face_auth">Face detection</a>
-- <a href="https://github.com/E-eclipse/SiteSourceCode">My site with source code</a> - [link](https://www.e-eclipse.ru/)
+- <a href="https://github.com/E-eclipse/SiteSourceCode">My site</a> - [Link to the web version](https://www.e-eclipse.ru/)
 
 ---
 
