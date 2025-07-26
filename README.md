@@ -30,7 +30,7 @@ I am a novice developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems on CodeWars and LeetCode and read tech articles.
 
-- :mailbox:How to reach me:  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/mathew101)
+- :mailbox:How to reach me:  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/e_eclipse1)
 
 ---
 
