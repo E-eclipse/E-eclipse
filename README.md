@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 I am a novice developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I am a 3rd year student at Plekhanov Russian University of Economics.
+- :telescope: I am a 4th year student at Plekhanov Russian University of Economics.
 
 - :seedling: Exploring Technical Content Writing.
 
