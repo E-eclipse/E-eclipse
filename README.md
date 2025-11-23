@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=E-eclipse&show_icons=true&theme=github_dark"/>
-
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-eclipse&layout=compact&theme=vision-friendly-dark"/>
 </p>
 
