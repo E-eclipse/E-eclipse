@@ -13,12 +13,20 @@
 
 ---
 
+### 👋 Typing Status
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Dev;ML+&+Neural+Networks+Fan;Backend+Automation;Dashboard+Builder;Always+Learning&font=Fira%20Code&center=true&width=380&height=50" alt="Typing SVG" />
+</p>
+
+---
+
 ### 👤 About Me
 
-- Python developer focused on machine learning, neural networks, and data analytics.
-- 4th-year student at Plekhanov Russian University of Economics, studying computer science.
-- Backend enthusiast: Docker, databases, metrics, and automations.
-- Always learning new tools, solving code challenges, and building technical dashboards.
+- Python developer focused on ML, neural networks, and data analytics.
+- 4th-year student at Plekhanov Russian University of Economics, Computer Science.
+- Enthusiast for backend: Docker, databases, metrics, automation.
+- Building dashboards, optimizing code, solving tech challenges, exploring new dev tools.
 
 ---
 
@@ -44,12 +52,29 @@
 
 ---
 
+### 📌 Featured Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=E-eclipse&repo=Face_auth&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=E-eclipse&repo=SiteSourceCode&theme=github_dark" />
+</p>
+
+---
+
 ### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=E-eclipse&show_icons=true&theme=github_dark"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-eclipse&layout=compact&theme=vision-friendly-dark"/>
+</p>
+
+---
+
+### 😂 Programming Joke of the Day
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Programming Joke" />
 </p>
 
 ---
