@@ -71,14 +71,6 @@
 
 ---
 
-### 😂 Programming Joke of the Day
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Programming Joke" />
-</p>
-
----
-
 ### 💬 Quote of the Day
 
 <p align="center">
