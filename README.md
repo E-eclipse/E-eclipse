@@ -52,15 +52,6 @@
 
 ---
 
-### 📌 Featured Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=E-eclipse&repo=Face_auth&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=E-eclipse&repo=SiteSourceCode&theme=github_dark" />
-</p>
-
----
-
 ### 📈 GitHub Activity
 
 <p align="center">
