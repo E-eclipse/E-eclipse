@@ -15,10 +15,10 @@
 
 ### 👤 About Me
 
-- Python developer passionate about machine learning, data analysis, and neural networks.
-- 4th-year student at Plekhanov Russian University of Economics (Computer Science major).
-- Building backend projects, working with Docker, databases, and analytics.
-- Love exploring new tech, visualizing metrics, and solving coding challenges.
+- Python developer focused on machine learning, neural networks, and data analytics.
+- 4th-year student at Plekhanov Russian University of Economics, studying computer science.
+- Backend enthusiast: Docker, databases, metrics, and automations.
+- Always learning new tools, solving code challenges, and building technical dashboards.
 
 ---
 
@@ -40,18 +40,7 @@
 ### 🛠️ Projects
 
 - [Face detection (AI/Computer Vision)](https://github.com/E-eclipse/Face_auth)
-- [Personal site (source)](https://github.com/E-eclipse/SiteSourceCode) · [Online](https://www.e-eclipse.ru/)
-
----
-
-### 🎵 Now Playing
-
-<details>
-<summary>Yandex Music "Now Playing" (manual)</summary>
-  
-There is no stable public Yandex Music "now playing" widget for GitHub READMEs.  
-To show your current track, host your own [Yandex Music widget](https://github.com/StounhandJ/yandex-music-widget) or periodically upload a static track image from your local machine or bot.
-</details>
+- [Personal site (source)](https://github.com/E-eclipse/SiteSourceCode) · [Online version](https://www.e-eclipse.ru/)
 
 ---
 
@@ -68,5 +57,5 @@ To show your current track, host your own [Yandex Music widget](https://github.c
 ### 💬 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=<RANDOM_NUMBER>" alt="Dev quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" alt="Dev quote"/>
 </p>
